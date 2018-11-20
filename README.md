@@ -20,4 +20,4 @@ Why do you say that.
 No need to worry, the app is fully offline, so no angry russian spies will pick your data ^^
 
 ## When will it be available?
-Its current state is pre-pre-alpha, so just wait until it is well baked in the ove ;)
+Its current state is pre-pre-alpha, so just wait until it is well baked in the oven ;)
